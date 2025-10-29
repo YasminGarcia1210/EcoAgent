@@ -1,0 +1,92 @@
+# EcoAgent - Dependencias del Proyecto
+# ====================================
+
+# Core LangChain
+langchain==0.1.0
+langchain-openai==0.0.5
+langchain-community==0.0.10
+
+# OpenAI
+openai==1.3.0
+
+# Vector Stores y Embeddings
+faiss-cpu==1.7.4
+chromadb==0.4.15
+
+# Document Loaders
+pypdf==3.17.0
+python-docx==1.1.0
+beautifulsoup4==4.12.2
+
+# Streamlit para la interfaz
+streamlit==1.28.0
+streamlit-chat==0.1.1
+
+# Procesamiento de datos
+pandas==2.1.3
+numpy==1.24.3
+
+# Manejo de archivos y formatos
+python-dotenv==1.0.0
+pydantic==2.5.0
+
+# Logging y monitoreo
+loguru==0.7.2
+
+# Utilidades
+requests==2.31.0
+tqdm==4.66.1
+
+# Desarrollo y testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0
+flake8==6.1.0
+
+# Jupyter para notebooks (opcional)
+jupyter==1.0.0
+ipykernel==6.26.0
+
+# Manejo de fechas
+python-dateutil==2.8.2
+
+# Validación de datos
+jsonschema==4.20.0
+
+# Configuración
+pyyaml==6.0.1
+
+# Base de datos (opcional para futuras extensiones)
+sqlalchemy==2.0.23
+
+# APIs y HTTP
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Serialización
+pickle5==0.0.12
+
+# Manejo de errores
+tenacity==8.2.3
+
+# Optimización de memoria
+psutil==5.9.6
+
+# Seguridad
+cryptography==41.0.7
+
+# Análisis de texto
+nltk==3.8.1
+spacy==3.7.2
+
+# Visualización (opcional)
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.17.0
+
+# Notas de instalación:
+# ====================
+# 1. Instalar con: pip install -r requirements.txt
+# 2. Para usar OpenAI, configurar OPENAI_API_KEY en variables de entorno
+# 3. Para desarrollo, instalar también las dependencias de desarrollo
+# 4. Algunas dependencias pueden requerir instalación adicional de system packages

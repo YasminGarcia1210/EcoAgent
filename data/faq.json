@@ -1,0 +1,61 @@
+{
+  "faq": [
+    {
+      "pregunta": "¿Cuánto tiempo tengo para devolver un producto?",
+      "respuesta": "El tiempo de devolución varía según la categoría: Electrónicos (30 días), Computadoras (15 días), Audio (14 días), Tablets (7 días)."
+    },
+    {
+      "pregunta": "¿Qué productos no son elegibles para devolución?",
+      "respuesta": "Productos personalizados, software con licencia activada, productos de higiene personal y alimentos perecederos no son elegibles."
+    },
+    {
+      "pregunta": "¿Cómo genero una etiqueta de devolución?",
+      "respuesta": "Puedes usar EcoAgent para generar una etiqueta automáticamente. Solo necesitas el ID del producto y el ID del cliente."
+    },
+    {
+      "pregunta": "¿Cuánto tiempo toma el reembolso?",
+      "respuesta": "El reembolso se procesa dentro de 5-7 días hábiles después de recibir el producto en nuestro centro de retornos."
+    },
+    {
+      "pregunta": "¿Necesito el empaque original?",
+      "respuesta": "Sí, es recomendable incluir el empaque original y todos los accesorios para un proceso de devolución más rápido."
+    }
+  ],
+  "productos_ejemplo": [
+    {
+      "id": "PROD001",
+      "nombre": "Smartphone EcoTech Pro",
+      "categoria": "Electrónicos",
+      "precio": 299.99,
+      "garantia_dias": 30
+    },
+    {
+      "id": "PROD002", 
+      "nombre": "Laptop EcoFriendly",
+      "categoria": "Computadoras",
+      "precio": 899.99,
+      "garantia_dias": 15
+    },
+    {
+      "id": "PROD003",
+      "nombre": "Auriculares Wireless",
+      "categoria": "Audio", 
+      "precio": 79.99,
+      "garantia_dias": 14
+    }
+  ],
+  "clientes_ejemplo": [
+    {
+      "id": "CLI001",
+      "nombre": "Juan Pérez",
+      "email": "juan@email.com",
+      "tipo": "premium"
+    },
+    {
+      "id": "CLI002",
+      "nombre": "María García", 
+      "email": "maria@email.com",
+      "tipo": "estándar"
+    }
+  ]
+}

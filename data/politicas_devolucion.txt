@@ -1,0 +1,73 @@
+POLÍTICAS DE DEVOLUCIÓN ECOAGENT
+=================================
+
+INFORMACIÓN GENERAL
+-------------------
+EcoAgent es el sistema inteligente de devoluciones de EcoTech, diseñado para 
+proporcionar asistencia automatizada en procesos de devolución de productos.
+
+PERÍODOS DE DEVOLUCIÓN
+----------------------
+Los períodos de devolución varían según la categoría del producto:
+
+• Electrónicos: 30 días desde la fecha de compra
+• Computadoras: 15 días desde la fecha de compra  
+• Audio: 14 días desde la fecha de compra
+• Tablets: 7 días desde la fecha de compra
+
+CONDICIONES REQUERIDAS
+----------------------
+Para que una devolución sea procesada, el producto debe cumplir con:
+
+1. Estado Original: El producto debe estar en condiciones similares a cuando fue comprado
+2. Empaque Completo: Incluir empaque original y todos los accesorios
+3. Recibo Válido: Comprobante de compra original o digital
+4. Uso Normal: No debe mostrar signos de uso excesivo o daño
+
+PRODUCTOS NO ELEGIBLES
+----------------------
+Los siguientes productos NO son elegibles para devolución:
+
+• Productos personalizados o hechos a medida
+• Software con licencia activada
+• Productos de higiene personal
+• Alimentos perecederos
+• Productos con daños causados por mal uso
+• Productos devueltos después del período de garantía
+
+PROCESO DE DEVOLUCIÓN
+---------------------
+1. Verificación de Elegibilidad: EcoAgent verifica automáticamente si el producto cumple los criterios
+2. Generación de Etiqueta: Se crea una etiqueta de devolución con instrucciones específicas
+3. Envío: El cliente envía el producto usando la etiqueta generada
+4. Inspección: Nuestro equipo verifica el estado del producto recibido
+5. Reembolso: Se procesa el reembolso según los criterios de calidad
+
+TIEMPOS DE PROCESAMIENTO
+------------------------
+• Recepción del producto: 1-2 días hábiles
+• Inspección de calidad: 2-3 días hábiles
+• Procesamiento de reembolso: 5-7 días hábiles
+• Total: 8-12 días hábiles desde la recepción
+
+MÉTODOS DE REEMBOLSO
+--------------------
+El reembolso se realiza usando el mismo método de pago original:
+• Tarjeta de crédito/débito: 5-7 días hábiles
+• Transferencia bancaria: 3-5 días hábiles
+• PayPal: 1-3 días hábiles
+
+CONTACTO Y SOPORTE
+-------------------
+Para consultas sobre devoluciones:
+• Email: devoluciones@ecotech.com
+• Teléfono: +1-800-ECO-TECH
+• Chat en vivo: Disponible 24/7 en nuestro sitio web
+• Centro de ayuda: help.ecotech.com/devoluciones
+
+POLÍTICA DE PRIVACIDAD
+---------------------
+Toda la información de devoluciones se maneja de acuerdo con nuestra política de privacidad.
+Los datos personales se utilizan únicamente para procesar la devolución y mejorar nuestros servicios.
+
+ÚLTIMA ACTUALIZACIÓN: Octubre 2024
