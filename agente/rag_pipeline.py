@@ -17,12 +17,23 @@ from typing import List, Dict, Any, Optional
 from datetime import datetime
 
 # Importaciones de LangChain
+# Importaciones modernas de LangChain y módulos asociados
+
+# Embeddings y modelos de lenguaje
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
+
+# Vectorstores y loaders
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import TextLoader, PyPDFLoader
-from langchain.chains import RetrievalQA
+
+# 🔥 Cambio importante aquí
+from langchain.chains import RetrievalQA  # <-- CORRECTO
+
+# LLMs (opcional si usas ChatOpenAI)
 from langchain_community.llms import OpenAI
+
+# Tipos de documentos
 from langchain.schema import Document
 
 # Configurar logging
